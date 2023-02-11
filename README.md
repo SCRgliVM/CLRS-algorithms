@@ -1,1 +1,1 @@
-# Introduction to Algorithms (Third Edition) - algorithms implementations in C++
+# Introduction to Algorithms (Third Edition) - algorithms implementations in TypeScript
