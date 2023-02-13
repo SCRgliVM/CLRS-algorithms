@@ -16,3 +16,5 @@ function insertionSort(A : number[]) : number[]
 
 // test
 console.log(insertionSort([5,2,4,6,1,3]));
+// output:
+// [ 1, 2, 3, 4, 5, 6 ]

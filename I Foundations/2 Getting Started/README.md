@@ -2,4 +2,4 @@
 
 ## 2.1 Insertion sort
 
-![](/img/insertionSort.jpg "")
+![](img/insertionSort.png)
